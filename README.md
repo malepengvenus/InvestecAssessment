@@ -7,7 +7,9 @@ TestNG
 PHP
 
 PART ONE
+
 Please download Investec folder for UI
+
 Installation
 
 You must have Java installed. The recommended version is Java 8. Download it from Oracle and install it.
@@ -29,14 +31,17 @@ Right click project name > Build path > configure Build path > Under Libraries o
 
 Inside the project name there is package called 'Chromedriver' with chrome driver version 98.0.4758.102, please check your browser version to see if it will be compatible to run thi version of driver.if not you can download your version that will work with your chrome browser from below link:
 https://chromedriver.chromium.org/downloads
+
 Then you can extract it and drag and drop it to chromedriver package in our project.
 
 By running the application you should open a pack called testscript > open TestRunner.java > Right click and Click Run as TestNG Test.
 
 PART TWO
-Please download InvestecAPI
+
+Please download InvestecAPI folder
 
 Programming language: PHP
+
 Tools: Netbeans/Notepad++ and Xampp
 
 Download IvestecAPI folder to your local machine and extract it.
