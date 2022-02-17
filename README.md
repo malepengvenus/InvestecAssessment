@@ -15,7 +15,7 @@ Please download Investec folder for UI
 
 Installation
 
-Install jav. The recommended version is Java 8. Download it from Oracle and install it.
+Install java. The recommended version is Java 8. Download it from Oracle and install it.
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 The recommended development environment is Eclipse.
