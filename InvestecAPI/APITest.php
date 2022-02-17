@@ -3,11 +3,15 @@
 /* 
 
  */
+ 
+ // set our url 
 
 $url = "https://swapi.dev/api/people/3";
 
+
 $curl = curl_init($url);
 curl_setopt($curl, CURLOPT_URL, $url);
+// return the transfer as a string, also with setopt()
 curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
 
 $headers = array(
@@ -20,6 +24,7 @@ curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
 
 $resp = curl_exec($curl);
 $httpcode = curl_getinfo($curl, CURLINFO_HTTP_CODE);
+// close curl resource to free up system resources
 curl_close($curl);
 
 $parsed_resp = json_decode($resp);
