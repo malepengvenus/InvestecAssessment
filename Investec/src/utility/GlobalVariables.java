@@ -5,14 +5,6 @@ public class GlobalVariables {
 	    
 	    public static final String Actimize_URL = "https://www.investec.com/";
 
-	    //SIT1
-	    public static final String IBM_Devone = "http://prdc-ta001act2v:8080/RCM/acegi/acegilogin.jsp";
-	    public static final String username = "sam_reviewer";
-	    public static final String password = "p@ssw0rd01";
-
-
-	   
-
 	    public static final String DRIVERDATA = "webdriver.chrome.driver";
 	    public static final String DATALOCATION = "src/Chromedriver/chromedriver.exe";
 	    public static final String PATH_TESTDATA = "C:\\Selenium Scripts\\BPM_HealthChecks\\";
