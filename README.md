@@ -53,5 +53,5 @@ Configure xampp by moving to localdrive(C:, D:) > Xampp > htdocs > delete all th
 Start xampp control panel and on control panel start 'Apache and mySql'.
 
 After successful installation, go to localdrive(C:, D:) > Xampp > htdocs > paste the IvestecAPI folder
-Go to any browser type http://localhost/investecAPI/APITest.php
+Go to any browser type http://localhost/investecAPI/APITest.php to run it
 
