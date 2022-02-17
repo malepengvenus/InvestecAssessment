@@ -1,9 +1,12 @@
 # InvestecAssessment
 Technology stack
+
 Selenium WebDriver
+
 Java SE 8
-Gradle
+
 TestNG
+
 PHP
 
 PART ONE
@@ -12,7 +15,7 @@ Please download Investec folder for UI
 
 Installation
 
-You must have Java installed. The recommended version is Java 8. Download it from Oracle and install it.
+Install jav. The recommended version is Java 8. Download it from Oracle and install it.
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 The recommended development environment is Eclipse.
