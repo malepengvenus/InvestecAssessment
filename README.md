@@ -7,8 +7,8 @@ TestNG
 PHP
 
 PART ONE
-
-Intallation
+Please download Investec folder for UI
+Installation
 
 You must have Java installed. The recommended version is Java 8. Download it from Oracle and install it.
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
@@ -34,6 +34,7 @@ Then you can extract it and drag and drop it to chromedriver package in our proj
 By running the application you should open a pack called testscript > open TestRunner.java > Right click and Click Run as TestNG Test.
 
 PART TWO
+Please download InvestecAPI
 
 Programming language: PHP
 Tools: Netbeans/Notepad++ and Xampp
